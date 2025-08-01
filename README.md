@@ -42,10 +42,10 @@ Bu bot Discord sunucularında çekiliş yapmanızı sağlar. Kullanıcılar buto
    ```
 4. `config.json` dosyasını düzenleyin:
    ```json
-   {
-     "token": "your_bot_token_here",
-     "clientId": "your_client_id_here"
-   }
+      {
+        "token": "YOUR_BOT_TOKEN",
+        "clientId": "YOR_CLIENT_ID"
+      } 
    ```
 5. Botu çalıştırın:
    ```bash
