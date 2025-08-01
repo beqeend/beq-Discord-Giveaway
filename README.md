@@ -44,7 +44,7 @@ Bu bot Discord sunucularında çekiliş yapmanızı sağlar. Kullanıcılar buto
    ```json
       {
         "token": "YOUR_BOT_TOKEN",
-        "clientId": "YOR_CLIENT_ID"
+        "clientId": "YOUR_CLIENT_ID"
       } 
    ```
 5. Botu çalıştırın:
